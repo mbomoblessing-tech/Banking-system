@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-string username[3][20] = {"Lerato", "Thabo", "Amara"};
+char username[3][20] = {"Lerato", "Thabo", "Amara"};
 int accountNumber[3] = {1001001, 1001002, 1001003};
 int accountPIN[3] = {1234, 2345, 3456};
 double accountBalance[3] = {2500, 1800, 3200};
